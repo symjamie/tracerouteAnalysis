@@ -1,10 +1,3 @@
-# tracerouteAnalysis
-Author:  Yiming Sun
-
-Purpose:  CSc 361 - Assignment 2
-
-Date:  Feb 24, 2018 
-
 Description: analyze trace file created by traceroute command on Windows or Linux.
 
 --------------------------------------------------------------------------
